@@ -1,0 +1,5 @@
+Dashboard Tableau Link
+    https://public.tableau.com/profile/michael.debaker#!/vizhome/CitiBikeAnalysis_15810932239320/CitiBikeAnalysisDashboard?publish=yes
+
+Analysis
+    Two dashboards have been created to make visualizing this data simple and easy to use. The first dashboard allows you to view the busyest stations with a basic color scale for each bike station. When you hover over the station you will recieve data for the average age of the customers that use that station. On this dashboard there is also a display with a color scale for average age of each station. Both displays can be adjusted by months to figure out trends that happen over the seasons of the year with the age of users and stations used during each season. The second dash board shows two interactive maps one of which is the station that people started at and one that people ended at. The second dashboard makes it very obvious people are starting in jersey and traveling into New York. Specific months show a trend in younger people using citibike and than during other seasons target demographic would than change to 40+.  
